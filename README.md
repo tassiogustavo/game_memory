@@ -1,16 +1,21 @@
-# game_memory
+# Jogo da memória em Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://github.com/tassiogustavo/game_memory/assets/70405308/520ac9ab-b115-413b-bf8e-fa0e042846a2
 
-## Getting Started
+## 📝 Descrição do projeto
+Cumprindo um desafio que recebi, este projeto é de um jogo da memória com times do campeonato brasileiro de futebol feito em Flutter Web. O projeto é um jogo da memória simples, usando a biblioteca flip_card para fazer a animação de flip dos items. Criar a lógica por trás do jogo deu um pouco de trabalho mas o resultado ficou muito bom.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Gerência de estado, SetState
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: flip_card (realiza o flip dos cards)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Links
+* [flip_card](https://pub.dev/packages/flip_card)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
